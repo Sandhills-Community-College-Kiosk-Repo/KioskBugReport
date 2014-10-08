@@ -17,8 +17,12 @@ http://designpods.sandhills.edu/
 
 Contact List
   Seung Y. Seo - Lead Developer (username Locomotiver)
+      
   Paul Steel - Lead Project Manager 
-  Johna K. Parker
+      
+  Johna K. Parker - Project Advisor
+      
+  Dan Ring 
   
 
 Thanks!
