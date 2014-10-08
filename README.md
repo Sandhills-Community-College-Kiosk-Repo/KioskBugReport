@@ -23,6 +23,4 @@ Contact List
 
 Thanks!
 
-  Seung Seo:
-    Edited: 2014 - 10 - 08
-  
+
